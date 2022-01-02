@@ -15,9 +15,9 @@ namespace HotelReservation_WPF.Model
             Name = name;
             _reservationBook = new ReservationBook();
         }
-        public IEnumerable<Reservation> GetAllReservationForUser(string username) 
+        public IEnumerable<Reservation> GetAllReservations() 
         { 
-            return _reservationBook.GetAllReservationForUser(username);
+            return _reservationBook.GetAllReservations();
         }
         public void MakeReservation(Reservation reservation) 
         {

@@ -5,9 +5,11 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:HotelReservation_WPF" xmlns:view="clr-namespace:HotelReservation_WPF.View"
         mc:Ignorable="d"
+        FontSize="14"
         Title="Hotel Reservation" Height="450" Width="800">
-    <Grid>
-        <view:MakeReservation/>
+    <Grid Margin="20 10" MaxWidth="600">
+        <!--<view:MakeReservation/>-->
         <view:ReservationListingView/>
     </Grid>
 </Window>
+    

@@ -30,7 +30,7 @@ namespace HotelReservation_WPF
             }
             
 
-            IEnumerable<Reservation> _userReservation = hotel.GetAllReservationForUser("Faiq");
+            IEnumerable<Reservation> _userReservation = hotel.GetAllReservations();
             base.OnStartup(e);
         }
     }

@@ -24,3 +24,30 @@ C:\Users\Faiq\source\repos\HotelReservation_WPF\HotelReservation_WPF\obj\Debug\n
 C:\Users\Faiq\source\repos\HotelReservation_WPF\HotelReservation_WPF\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
 C:\Users\Faiq\source\repos\HotelReservation_WPF\HotelReservation_WPF\obj\Debug\net6.0-windows\View\MakeReservation.baml
 C:\Users\Faiq\source\repos\HotelReservation_WPF\HotelReservation_WPF\obj\Debug\net6.0-windows\View\ReservationListingView.baml
+F:\C# Practice work\WPF\Projects\HotelReservation_WPF\HotelReservation_WPF\bin\Debug\net6.0-windows\HotelReservation_WPF.exe
+F:\C# Practice work\WPF\Projects\HotelReservation_WPF\HotelReservation_WPF\bin\Debug\net6.0-windows\HotelReservation_WPF.deps.json
+F:\C# Practice work\WPF\Projects\HotelReservation_WPF\HotelReservation_WPF\bin\Debug\net6.0-windows\HotelReservation_WPF.runtimeconfig.json
+F:\C# Practice work\WPF\Projects\HotelReservation_WPF\HotelReservation_WPF\bin\Debug\net6.0-windows\HotelReservation_WPF.dll
+F:\C# Practice work\WPF\Projects\HotelReservation_WPF\HotelReservation_WPF\bin\Debug\net6.0-windows\ref\HotelReservation_WPF.dll
+F:\C# Practice work\WPF\Projects\HotelReservation_WPF\HotelReservation_WPF\bin\Debug\net6.0-windows\HotelReservation_WPF.pdb
+F:\C# Practice work\WPF\Projects\HotelReservation_WPF\HotelReservation_WPF\obj\Debug\net6.0-windows\HotelReservation_WPF.csproj.AssemblyReference.cache
+F:\C# Practice work\WPF\Projects\HotelReservation_WPF\HotelReservation_WPF\obj\Debug\net6.0-windows\MainWindow.g.cs
+F:\C# Practice work\WPF\Projects\HotelReservation_WPF\HotelReservation_WPF\obj\Debug\net6.0-windows\View\MakeReservation.g.cs
+F:\C# Practice work\WPF\Projects\HotelReservation_WPF\HotelReservation_WPF\obj\Debug\net6.0-windows\View\ReservationListingView.g.cs
+F:\C# Practice work\WPF\Projects\HotelReservation_WPF\HotelReservation_WPF\obj\Debug\net6.0-windows\App.g.cs
+F:\C# Practice work\WPF\Projects\HotelReservation_WPF\HotelReservation_WPF\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+F:\C# Practice work\WPF\Projects\HotelReservation_WPF\HotelReservation_WPF\obj\Debug\net6.0-windows\HotelReservation_WPF_MarkupCompile.cache
+F:\C# Practice work\WPF\Projects\HotelReservation_WPF\HotelReservation_WPF\obj\Debug\net6.0-windows\HotelReservation_WPF_MarkupCompile.lref
+F:\C# Practice work\WPF\Projects\HotelReservation_WPF\HotelReservation_WPF\obj\Debug\net6.0-windows\MainWindow.baml
+F:\C# Practice work\WPF\Projects\HotelReservation_WPF\HotelReservation_WPF\obj\Debug\net6.0-windows\View\MakeReservation.baml
+F:\C# Practice work\WPF\Projects\HotelReservation_WPF\HotelReservation_WPF\obj\Debug\net6.0-windows\View\ReservationListingView.baml
+F:\C# Practice work\WPF\Projects\HotelReservation_WPF\HotelReservation_WPF\obj\Debug\net6.0-windows\HotelReservation_WPF.g.resources
+F:\C# Practice work\WPF\Projects\HotelReservation_WPF\HotelReservation_WPF\obj\Debug\net6.0-windows\HotelReservation_WPF.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# Practice work\WPF\Projects\HotelReservation_WPF\HotelReservation_WPF\obj\Debug\net6.0-windows\HotelReservation_WPF.AssemblyInfoInputs.cache
+F:\C# Practice work\WPF\Projects\HotelReservation_WPF\HotelReservation_WPF\obj\Debug\net6.0-windows\HotelReservation_WPF.AssemblyInfo.cs
+F:\C# Practice work\WPF\Projects\HotelReservation_WPF\HotelReservation_WPF\obj\Debug\net6.0-windows\HotelReservation_WPF.csproj.CoreCompileInputs.cache
+F:\C# Practice work\WPF\Projects\HotelReservation_WPF\HotelReservation_WPF\obj\Debug\net6.0-windows\HotelReservation_WPF.dll
+F:\C# Practice work\WPF\Projects\HotelReservation_WPF\HotelReservation_WPF\obj\Debug\net6.0-windows\ref\HotelReservation_WPF.dll
+F:\C# Practice work\WPF\Projects\HotelReservation_WPF\HotelReservation_WPF\obj\Debug\net6.0-windows\HotelReservation_WPF.pdb
+F:\C# Practice work\WPF\Projects\HotelReservation_WPF\HotelReservation_WPF\obj\Debug\net6.0-windows\HotelReservation_WPF.genruntimeconfig.cache
+F:\C# Practice work\WPF\Projects\HotelReservation_WPF\HotelReservation_WPF\obj\Debug\net6.0-windows\App.baml

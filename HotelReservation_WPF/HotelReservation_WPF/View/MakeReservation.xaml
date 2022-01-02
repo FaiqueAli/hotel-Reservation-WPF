@@ -5,8 +5,8 @@
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
              xmlns:local="clr-namespace:HotelReservation_WPF.View"
              mc:Ignorable="d" 
-             d:DesignHeight="450" d:DesignWidth="800">
-    <Grid>
+              d:DesignHeight="450" d:DesignWidth="800">
+    <Grid Grid.IsSharedSizeScope="True">
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto"/>
             <RowDefinition Height="Auto"/>
@@ -14,52 +14,52 @@
             <RowDefinition Height="Auto"/>
             <RowDefinition Height="Auto"/>
         </Grid.RowDefinitions>
-        <TextBlock Grid.Row="0" FontSize="24" Text="Make Reservation"></TextBlock>
+        <TextBlock Grid.Row="0" Style="{StaticResource HeeaderText}" Text="Make Reservation"></TextBlock>
         
-        <Grid Grid.Row="1">
+        <Grid Grid.Row="1" Margin="0 25 0 0">
             <Grid.RowDefinitions>
                 <RowDefinition Height="Auto"></RowDefinition>
                 <RowDefinition Height="Auto"></RowDefinition>
             </Grid.RowDefinitions>
             <TextBlock FontSize="15" Grid.Row="0" Text="UserName" Margin="0,5,0,0"></TextBlock>
-            <TextBox  Grid.Row="1" Text="" Margin="0,5,0,0"></TextBox>
+            <TextBox  Grid.Row="1" Text=""  Margin="0,5,0,0"></TextBox>
         </Grid>
 
-        <Grid Grid.Row="2">
+        <Grid Grid.Row="2" Margin="0 10 0 0">
             <Grid.RowDefinitions> 
                 <RowDefinition Height="Auto"></RowDefinition>
                 <RowDefinition Height="Auto"></RowDefinition>
             </Grid.RowDefinitions>
             <Grid.ColumnDefinitions>
-                <ColumnDefinition Width="30"></ColumnDefinition>
-                <ColumnDefinition Width="30"></ColumnDefinition>
+                <ColumnDefinition Width="Auto" SharedSizeGroup="FirstColumn"></ColumnDefinition>
+                <ColumnDefinition Width="Auto" SharedSizeGroup="SecondColumn"></ColumnDefinition>
             </Grid.ColumnDefinitions>
 
             <TextBlock FontSize="15" Grid.Row="0" Grid.Column="0" Text="Floor No." Margin="0,5,0,0"></TextBlock>
             <TextBox  Grid.Row="1" Grid.Column="0" Margin="0,5,0,0"></TextBox>
 
-            <TextBlock FontSize="15" Grid.Row="1" Grid.Column="11" Text="Room No." Margin="5,0,0,0"></TextBlock>
-            <TextBox  Grid.Row="1" Grid.Column="1" Margin="5,5,0,0"></TextBox>
+            <TextBlock FontSize="15" Grid.Row="0" Grid.Column="1" Text="Room No." Margin="15,5,0,0"></TextBlock>
+            <TextBox  Grid.Row="1" Grid.Column="1" Margin="10,5,0,0"></TextBox>
         </Grid>
-        
-        <Grid Grid.Row="3">
+
+        <Grid Grid.Row="3" Margin="0 10 0 0">
             <Grid.RowDefinitions>
                 <RowDefinition Height="Auto"></RowDefinition>
                 <RowDefinition Height="Auto"></RowDefinition>
             </Grid.RowDefinitions>
             <Grid.ColumnDefinitions>
-                <ColumnDefinition Width="30"></ColumnDefinition>
-                <ColumnDefinition Width="30"></ColumnDefinition>
+                <ColumnDefinition Width="Auto" SharedSizeGroup="FirstColumn"></ColumnDefinition>
+                <ColumnDefinition Width="Auto" SharedSizeGroup="SecondColumn"></ColumnDefinition>
             </Grid.ColumnDefinitions>
 
             <TextBlock FontSize="15" Grid.Row="0" Grid.Column="0" Text="start Date" Margin="0,5,0,0"></TextBlock>
             <DatePicker  SelectedDate="" Grid.Row="1" Grid.Column="0" Margin="0,5,0,0"></DatePicker>
 
-            <TextBlock FontSize="15" Grid.Row="1" Grid.Column="11" Text="End Date" Margin="5,0,0,0"></TextBlock>
-            <DatePicker  SelectedDate="" Grid.Row="1" Grid.Column="1" Margin="5,5,0,0"></DatePicker>
+            <TextBlock FontSize="15" Grid.Row="0" Grid.Column="11" Text="End Date" Margin="15,5,0,0"></TextBlock>
+            <DatePicker  SelectedDate="" Grid.Row="1" Grid.Column="1" Margin="15,5,0,0"></DatePicker>
         </Grid>
-        
-        <StackPanel Grid.Row="4" Orientation="Horizontal">
+
+        <StackPanel Grid.Row="4" Orientation="Horizontal" Margin="0 25 0 0">
             <Button Content="Submit" ></Button>
             <Button Content="Cancel" Margin="5,0,0,0"></Button>
         </StackPanel>
